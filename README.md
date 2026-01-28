@@ -18,3 +18,4 @@ The above is the philosopy of Polars, which is quite interesting. In fact, for s
 
 ## Chapters
 - [Getting Started](./Chapter%201%20-%20Getting%20Started/)
+- [Concepts](./Chapter%202%20-%20Concepts/)
