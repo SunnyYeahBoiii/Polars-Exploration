@@ -19,3 +19,7 @@ The above is the philosopy of Polars, which is quite interesting. In fact, for s
 ## Chapters
 - [Getting Started](./Chapter%201%20-%20Getting%20Started/)
 - [Concepts](./Chapter%203%20-%20Concepts/)
+    - [Data types and structures](./Chapter%203%20-%20Concepts/Section%201%20-%20Data%20types%20and%20structures/)
+    - [Expression and Contexts](./Chapter%203%20-%20Concepts/Section%202%20-%20Expressions%20and%20contexts/)
+    - [Lazy API](./Chapter%203%20-%20Concepts/Section%203%20-%20Lazy%20API/)
+    - [Streaming](./Chapter%203%20-%20Concepts/Section%204%20-%20Streaming/)
